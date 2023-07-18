@@ -34,3 +34,9 @@ Agenda:
 
 
 Repository with completed project - containing iOS App, Android App, App Clip, Instant App: [📚ArticleApp Repo](https://github.com/dawidzawada/ArticleApp)
+
+***
+
+Thank you and I look forward to your comments and feedback, if you have any questions I'm happy to answer them! 🧑‍💻
+
+**Dawid Zawada** - *Senior Front-End & Mobile Developer* at [**Codibly**](https://codibly.com/)
